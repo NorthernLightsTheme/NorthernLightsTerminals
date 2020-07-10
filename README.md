@@ -16,5 +16,3 @@ My NorthernLights Theme, for various terminals.
 ## iTerm
 - Open iTerm preferences > Profiles > Colors > Color Presets... > Import...
 - Select the profile you downloaded earlier.
-
-### Having problems/suggestions? Join [The discord server](https://discord.gg/6eMxyHT)!
