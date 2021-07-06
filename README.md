@@ -7,7 +7,7 @@ My NorthernLights Theme, for various terminals.
 - Download the right profile (Right click, save as...):
   - [iTerm](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/NorthernLights.itermcolors)
   - [Terminal.app](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/NorthernLights.terminal)
- - [Konsole](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/konsole.colorscheme)
+  - [Konsole](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/konsole.colorscheme)
 
 ## Terminal.app
 - Open settings > Profiles
