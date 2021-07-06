@@ -7,6 +7,7 @@ My NorthernLights Theme, for various terminals.
 - Download the right profile (Right click, save as...):
   - [iTerm](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/NorthernLights.itermcolors)
   - [Terminal.app](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/NorthernLights.terminal)
+ - [Konsole](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/konsole.colorscheme)
 
 ## Terminal.app
 - Open settings > Profiles
@@ -19,4 +20,7 @@ My NorthernLights Theme, for various terminals.
 
 ## Alacritty
 - Copy the contents from [alacritty.yml](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/alacritty.yml)
-- Paste in your config file (typically ~/.config/alacritty/alacritty.yml)
+- Paste in your config file (typically `~/.config/alacritty/alacritty.yml`)
+
+## Konsole
+- Copy the configuration file into `~/.local/share/konsole/`

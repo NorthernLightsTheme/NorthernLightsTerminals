@@ -7,7 +7,7 @@ cursor:
   cursor: '#b6becc'
 
 normal:
-  black:   '#16181e'
+  black:   '#2c303d'
   red:     '#cc6666'
   green:   '#66cc77'
   yellow:  '#ccc966'
@@ -17,11 +17,11 @@ normal:
   white:   '#b6becc'
 
 bright:
-  black:   '#21242d'
+  black:   '#43495b'
   red:     '#ff7f7f'
   green:   '#7fff94'
   yellow:  '#fffa7f'
   blue:    '#7facff'
   magenta: '#ff7ffa'
   cyan:    '#7ffffc'
-  white:   '#2d2f33'
+  white:   '#dbdfe6'
