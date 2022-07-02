@@ -1,0 +1,26 @@
+{
+    "name": "NorthernLights",
+    "comment": "",
+    "use-theme-colors": false,
+    "foreground-color": "#B6BECC",
+    "background-color": "#0f141f",
+    "palette": [
+        "#2c303d",
+        "#cc6666",
+        "#66cc77",
+        "#ccc966",
+        "#668acc",
+        "#cc66c9",
+        "#66ccca",
+        "#b6becc",
+
+        "#43495b",
+        "#ff7f7f",
+        "#7fff94",
+        "#fffa7f",
+        "#7facff",
+        "#ff7ffa",
+        "#7ffffc",
+        "#dbdfe6" 
+    ]
+}

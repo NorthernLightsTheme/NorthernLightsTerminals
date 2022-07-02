@@ -7,6 +7,8 @@ My NorthernLights Theme, for various terminals.
 - Download the right profile (Right click, save as...):
   - [iTerm](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/NorthernLights.itermcolors)
   - [Terminal.app](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/NorthernLights.terminal)
+  - [Tilix](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/northern-lights.json)
+  - [BlackBox](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/northern-lights.json)
   - [Konsole](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/konsole.colorscheme)
 
 ## Terminal.app
@@ -17,6 +19,12 @@ My NorthernLights Theme, for various terminals.
 ## iTerm
 - Open iTerm preferences > Profiles > Colors > Color Presets... > Import...
 - Select the profile you downloaded earlier.
+
+## Tilix
+- Copy the configuration file into `/usr/share/tilix/schemes/`
+
+## BlackBox
+- Copy the configuration file into `/usr/share/blackbox/schemes/`
 
 ## Alacritty
 - Copy the contents from [alacritty.yml](https://raw.githubusercontent.com/NorthernLightsTheme/NorthernLightsTerminals/master/alacritty.yml)
